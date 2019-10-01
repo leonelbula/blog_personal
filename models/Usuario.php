@@ -1,6 +1,6 @@
 <?php
 
-require_once 'ModeloBase.php';
+require_once 'config/DataBase.php';
 
 class Usuario extends ModeloBase{
 	

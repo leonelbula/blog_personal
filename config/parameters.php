@@ -1,6 +1,6 @@
 <?php
 //ruta principal del proyecto
-define("URL_BASE", "http://localhost/sistema_bar/");
+define("URL_BASE", "http://localhost/blog_basico/");
 
 //controlador principal
 define("CONTROLLER_DEFAULT", "frontendController");
